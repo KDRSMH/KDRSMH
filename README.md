@@ -15,10 +15,10 @@
 <span style="color:#fabd2f">Host</span>:&nbsp;&nbsp;&nbsp;&nbsp;Lenovo LOQ<br>
 <span style="color:#83a598">Kernel</span>:&nbsp;&nbsp;DevOps & CyberSecurity Arch.<br>
 <span style="color:#d3869b">Uptime</span>:&nbsp;&nbsp;Since 2023 (Student)<br>
-<span style="color:#8ec07c">WM</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KDE<br>
+<span style="color:#8ec07c">WM</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNOME<br>
 <span style="color:#fe8019">Shell</span>:&nbsp;&nbsp;&nbsp;Bash<br>
 <span style="color:#fb4934">GPU</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RTX 3050 (CUDA/AI)<br>
-<span style="color:#b8bb26">Memory</span>:&nbsp;&nbsp;Loading... NestJS, Go
+<span style="color:#b8bb26">Memory</span>:&nbsp;&nbsp;Loading... CyberSecurity Red Team,Python,Golang,
 </div>
 <h3 style="color: #fabd2f; margin: 5px 0;">📦 Installed Packages</h3>
 <div align="left">
@@ -39,7 +39,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#fb4934">"stack"</span>: [<span style="color:#b8bb26">"Local LLM"</span>, <span style="color:#b8bb26">"LangGraph"</span>]<br>
 &nbsp;&nbsp;},<br>
 &nbsp;&nbsp;<span style="color:#fb4934">"changelog"</span>: [<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#b8bb26">"Refining Agentic Workflows"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#b8bb26">"Refining Agentic Workflow"</span>,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#b8bb26">"Breaking Arch (Regularly)"</span>,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#b8bb26">"Mastering Backend Arch."</span><br>
 &nbsp;&nbsp;],<br>
@@ -51,8 +51,8 @@
 </div>
 <br/>
 <div align="right">
-<a href="mailto:ozhan.gebesoglu@gmail.com"><img src="https://img.shields.io/badge/_SEND_PACKET-Email-fb4934?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ozhangebesoglu"><img src="https://img.shields.io/badge/_CONNECT-LinkedIn-0077B5?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:kadiirylldrrm@gmail.com"><img src="https://img.shields.io/badge/_SEND_PACKET-Email-fb4934?style=for-the-badge&logoColor=white"/></a>
+<a href="//https:www.linkedin.com/in/kadir-semih-yıldırım-19s"><img src="https://img.shields.io/badge/_CONNECT-LinkedIn-0077B5?style=for-the-badge&logoColor=white"/></a>
 </div>
 </td>
 </tr>
