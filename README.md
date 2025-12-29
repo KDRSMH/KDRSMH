@@ -68,6 +68,5 @@
 </p>
 
 <br/>
-<img src="https://img.shields.io/badge/SYSTEM-STANDBY...-fb4934?style=flat-square&logo=archlinux&logoColor=282828"/>
-<a href="https://ozhangebesoglu.com"><img src="https://img.shields.io/badge/LINK-VISIT_PORTFOLIO_WEBSITE-b8bb26?style=flat-square&logo=firefox&logoColor=282828"/></a>
+
 </div>
