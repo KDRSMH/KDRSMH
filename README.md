@@ -52,7 +52,7 @@
 <br/>
 <div align="right">
 <a href="mailto:kadiirylldrrm@gmail.com"><img src="https://img.shields.io/badge/_SEND_PACKET-Email-fb4934?style=for-the-badge&logoColor=white"/></a>
-<a href="//https:www.linkedin.com/in/kadir-semih-yıldırım-19s"><img src="https://img.shields.io/badge/_CONNECT-LinkedIn-0077B5?style=for-the-badge&logoColor=white"/></a>
+<a href="https:www.linkedin.com/in/kadir-semih-yıldırım-19s"><img src="https://img.shields.io/badge/_CONNECT-LinkedIn-0077B5?style=for-the-badge&logoColor=white"/></a>
 </div>
 </td>
 </tr>
